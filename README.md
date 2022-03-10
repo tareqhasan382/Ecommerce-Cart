@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project Demo Link [Create React App](https://recat-ecommerce-cart.netlify.app/).
+This project Demo Link [https://recat-ecommerce-cart.netlify.app/].
 
 ## Available Scripts
 
